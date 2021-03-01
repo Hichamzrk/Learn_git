@@ -14,9 +14,4 @@ class Monster
 	{
 		$LIFE_ADVERSAIRE = $LIFE_ADVERSAIRE - COUP_DE_PIED;
 	}
-
-	public function coup_De_Poig($LIFE_ADVERSAIRE)
-	{
-		$LIFE_ADVERSAIRE = $LIFE_ADVERSAIRE - COUP_DE_POING:
-	}
 }
